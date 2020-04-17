@@ -8,7 +8,7 @@
   { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"18:00"},
   { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"20:00"}
     ],
-    "horarios-formentera": {
+    "horarios-formentera": [
           { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"07:30"},
   { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"08:30"},
   { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"10:30"},
@@ -16,5 +16,5 @@
   { "barco": "Aigües de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"13:30"},
   { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"19:00"},
   { "barco": "Aires de formentera", "tipo": "Fast Ferry", "duracion": "30 minutos", "hora":"21:00"}
-    }
+    ]
 }
